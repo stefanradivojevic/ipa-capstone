@@ -8,6 +8,6 @@ Ovaj projekat nešto skromnijeg dizajna imao je za glavni cilj da se dizajn u po
 Implementirano je i modifikovano nekoliko jQuery plugin-a ali ima i čistog JavaScript i jQuery koda. Pogledati npr. kako je zaobiđen nedostatak postojanja scroll up i scroll down event-a bilo u jQuery-u ili JavaScript-u. Ali i kako je rešeno prikazivanje menija odnosno padajućeg menija u prikazima pri različitim dimenzijama ekrana.
 Kod je moj u potpunosti.
 
-![ipa-mobile-view](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-mobile-view.png)
-![alt tag](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-tablet-view.png)
-![alt tag](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-desktop-view.png)
+![ipa screenshots mobile view](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-mobile-view.png)
+![ipa screenshots tablet view](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-tablet-view.png)
+![ipa screenshots desktop view](https://github.com/stefanradivojevic/ipa-capstone/blob/master/screenshots/ipa-desktop-view.png)

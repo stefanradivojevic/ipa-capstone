@@ -1,7 +1,7 @@
 # ipa-capstone [05/2016]
 Capston project from my first specialization on Coursera
 
-http://ipacpstnprjct.byethost15.com
+https://stefanradivojevic.github.io/ipa-capstone/
 
 Završni projekat početničke Frontend specijalizacije na Kurseri (Univerzitet u Mičigenu).
 Ovaj projekat nešto skromnijeg dizajna imao je za glavni cilj da se dizajn u potpunosti prenese i da sajt u potpunosti odgovara principima responsive web design-a putem media queries (ne UI okvirom kakav je bootstrap). Dakle, potrebno je pogledati sajt u device view režimu, odnosno u Mobile View režimu.
